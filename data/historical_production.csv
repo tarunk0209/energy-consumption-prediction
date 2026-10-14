@@ -1,0 +1,501 @@
+quantity,machine_hours,machine_type,shift,actual_energy_consumed
+347,2.22,Assembly,Evening,553.4
+91,9.1,Assembly,Night,210.48
+64,7.5,CNC,Morning,179.5
+139,6.56,CNC,Night,288.15
+352,8.71,Injection Molding,Morning,683.97
+162,9.9,CNC,Morning,364.97
+194,4.06,CNC,Evening,346.94
+214,2.06,Injection Molding,Night,361.47
+42,9.03,Assembly,Morning,133.78
+213,1.87,Injection Molding,Night,362.12
+461,4.98,CNC,Night,759.4
+358,3.51,Injection Molding,Morning,605.87
+463,2.11,Injection Molding,Evening,763.95
+206,2.79,Injection Molding,Morning,361.94
+379,11.3,Assembly,Morning,649.35
+107,6.88,CNC,Morning,242.46
+158,11.88,Assembly,Night,327.47
+370,4.57,CNC,Morning,614.99
+432,4.47,Injection Molding,Morning,723.84
+310,10.64,Injection Molding,Morning,659.01
+222,10.73,Assembly,Evening,418.72
+91,3.71,Assembly,Night,161.92
+319,5.71,Assembly,Evening,537.0
+90,6.6,CNC,Morning,219.98
+98,7.9,Assembly,Evening,211.93
+217,5.2,Injection Molding,Night,423.5
+303,10.47,CNC,Night,595.27
+369,10.73,Injection Molding,Night,759.02
+170,5.78,Injection Molding,Morning,366.3
+468,8.92,Assembly,Morning,764.56
+74,10.58,Injection Molding,Night,307.59
+121,2.68,CNC,Night,225.19
+492,6.83,CNC,Night,833.55
+29,2.23,Injection Molding,Evening,82.82
+143,10.66,CNC,Morning,346.13
+437,1.76,Assembly,Morning,661.87
+263,11.42,CNC,Evening,553.24
+330,5.65,CNC,Night,578.14
+373,3.21,Injection Molding,Evening,649.89
+352,5.11,Assembly,Evening,580.26
+135,1.7,CNC,Night,228.22
+321,3.42,CNC,Night,535.09
+137,1.74,CNC,Evening,228.57
+141,4.06,Injection Molding,Morning,285.21
+390,11.29,Assembly,Night,676.87
+421,6.2,Injection Molding,Morning,736.61
+357,5.74,Injection Molding,Evening,663.85
+393,1.6,Assembly,Night,606.29
+226,9.01,CNC,Morning,442.19
+294,5.93,Injection Molding,Morning,544.2
+147,10.62,CNC,Evening,366.79
+458,7.05,CNC,Night,795.02
+448,1.16,CNC,Morning,680.58
+268,6.29,Injection Molding,Morning,509.85
+21,11.84,Injection Molding,Evening,250.97
+376,11.53,Assembly,Night,661.1
+99,3.09,CNC,Morning,186.85
+297,1.67,Injection Molding,Morning,468.36
+264,6.53,Assembly,Morning,434.62
+280,1.88,CNC,Morning,444.08
+365,10.48,Injection Molding,Morning,743.21
+311,3.71,Assembly,Morning,494.38
+234,8.23,Assembly,Night,413.84
+153,3.25,Assembly,Evening,258.16
+222,2.44,Assembly,Evening,363.4
+495,9.27,CNC,Morning,853.07
+308,11.96,CNC,Night,613.04
+155,2.46,Injection Molding,Morning,282.85
+209,4.13,Injection Molding,Night,398.85
+333,11.82,Assembly,Night,586.01
+438,7.1,Assembly,Morning,713.72
+88,3.91,CNC,Night,183.35
+159,4.1,CNC,Night,290.94
+371,7.98,Injection Molding,Night,713.96
+483,10.99,CNC,Morning,858.53
+444,4.04,CNC,Evening,747.4
+346,11.78,CNC,Night,672.64
+381,5.7,CNC,Morning,633.1
+472,8.6,CNC,Night,820.0
+209,7.41,CNC,Evening,412.56
+177,5.01,CNC,Evening,334.01
+147,8.34,Injection Molding,Night,384.18
+228,11.71,Assembly,Morning,430.78
+141,10.51,CNC,Evening,343.52
+397,11.17,Injection Molding,Night,818.32
+435,3.73,CNC,Night,704.93
+466,1.43,Injection Molding,Morning,719.93
+490,6.06,Injection Molding,Morning,839.65
+357,3.12,Injection Molding,Evening,621.16
+415,4.07,Assembly,Night,662.4
+451,6.9,CNC,Morning,765.33
+153,2.96,Injection Molding,Morning,276.51
+242,4.8,Injection Molding,Evening,469.08
+281,2.27,Assembly,Morning,433.47
+382,5.8,Assembly,Night,628.86
+399,9.11,CNC,Evening,735.03
+360,11.13,Assembly,Evening,645.24
+83,8.92,Injection Molding,Night,287.71
+229,4.59,Assembly,Evening,391.53
+118,5.62,Injection Molding,Night,287.69
+109,7.77,Injection Molding,Evening,316.26
+20,4.34,CNC,Evening,89.94
+330,8.2,Injection Molding,Evening,667.38
+129,6.62,Assembly,Morning,242.38
+165,6.67,Assembly,Night,297.44
+439,11.47,CNC,Night,809.03
+432,3.19,CNC,Morning,682.2
+263,7.72,CNC,Evening,505.26
+342,7.33,Assembly,Night,573.74
+224,3.68,Assembly,Night,361.08
+404,10.46,CNC,Evening,756.28
+431,11.54,Assembly,Evening,749.17
+147,11.09,CNC,Evening,361.86
+257,8.34,Assembly,Night,449.83
+406,10.81,Assembly,Night,704.64
+238,10.14,Assembly,Evening,451.45
+400,10.48,Injection Molding,Evening,824.21
+450,8.01,Assembly,Evening,762.34
+160,5.84,Assembly,Evening,287.87
+191,4.52,Assembly,Morning,312.35
+138,5.21,CNC,Night,270.33
+232,5.48,Assembly,Evening,400.47
+125,10.16,Injection Molding,Night,384.92
+30,10.42,Assembly,Evening,122.29
+200,4.28,Injection Molding,Evening,392.73
+396,7.01,Assembly,Morning,642.88
+159,5.79,CNC,Evening,317.68
+367,9.78,Assembly,Morning,624.41
+490,2.4,Assembly,Night,759.27
+221,7.51,Assembly,Morning,377.41
+239,2.49,Injection Molding,Morning,396.12
+214,4.6,Injection Molding,Evening,417.35
+470,5.17,Injection Molding,Evening,835.34
+260,1.21,Assembly,Morning,406.47
+199,3.47,CNC,Night,339.59
+35,11.45,CNC,Morning,191.84
+142,2.39,Assembly,Morning,230.75
+131,6.12,Injection Molding,Evening,313.61
+330,11.6,Assembly,Morning,580.64
+103,11.61,CNC,Night,292.11
+179,7.33,Injection Molding,Evening,423.52
+121,1.84,Assembly,Night,194.15
+376,9.5,Assembly,Night,648.0
+427,11.82,CNC,Evening,814.16
+358,5.08,Assembly,Night,581.47
+454,5.62,Injection Molding,Morning,781.1
+205,7.99,Injection Molding,Night,454.79
+110,9.07,Assembly,Evening,239.48
+490,6.92,Injection Molding,Evening,892.91
+394,7.52,Injection Molding,Morning,731.65
+64,4.07,Injection Molding,Morning,173.27
+311,7.71,Injection Molding,Evening,621.95
+455,4.58,Injection Molding,Morning,762.62
+152,4.74,Assembly,Night,272.49
+304,1.11,CNC,Morning,465.18
+228,6.37,CNC,Night,426.43
+384,6.4,CNC,Morning,649.51
+227,8.61,Injection Molding,Night,506.69
+262,7.09,Injection Molding,Evening,549.39
+301,4.64,Assembly,Evening,499.67
+148,3.54,Assembly,Morning,243.83
+400,6.89,Assembly,Morning,643.29
+398,6.33,Assembly,Night,661.76
+288,7.56,CNC,Morning,519.46
+204,2.97,CNC,Night,349.02
+160,1.5,CNC,Night,259.83
+84,8.02,Injection Molding,Morning,276.32
+313,4.13,Injection Molding,Evening,563.04
+46,3.78,Injection Molding,Morning,142.19
+225,6.41,Assembly,Night,393.0
+97,2.64,Assembly,Evening,163.9
+147,2.3,Injection Molding,Night,268.68
+336,3.48,Assembly,Evening,548.7
+246,4.27,Assembly,Evening,411.73
+337,1.66,Assembly,Morning,524.28
+126,7.88,Injection Molding,Night,330.76
+142,2.91,CNC,Morning,239.96
+250,8.58,Injection Molding,Evening,543.14
+167,8.78,Assembly,Evening,317.58
+139,11.16,Assembly,Night,294.93
+498,3.18,CNC,Night,796.46
+96,10.99,CNC,Morning,268.83
+425,4.38,Assembly,Night,688.26
+244,2.37,Assembly,Evening,401.09
+159,6.51,Injection Molding,Evening,363.19
+40,10.78,Assembly,Evening,142.54
+33,2.0,Assembly,Night,66.16
+30,12.0,Assembly,Evening,135.38
+410,9.32,Injection Molding,Night,800.84
+489,4.06,Assembly,Evening,794.55
+271,11.66,Injection Molding,Evening,639.57
+184,8.37,CNC,Evening,390.08
+273,4.17,Injection Molding,Night,486.84
+65,4.46,Injection Molding,Morning,185.3
+226,10.51,CNC,Night,480.33
+256,5.55,CNC,Night,457.4
+407,6.48,Injection Molding,Morning,722.4
+301,2.44,Injection Molding,Evening,521.33
+268,2.34,Assembly,Night,431.54
+383,2.74,Assembly,Morning,594.52
+67,3.47,CNC,Evening,154.98
+351,10.15,Injection Molding,Night,720.05
+381,4.01,Injection Molding,Evening,665.33
+302,2.59,CNC,Night,493.89
+470,2.5,CNC,Evening,768.76
+457,5.56,Assembly,Evening,758.53
+164,8.99,Assembly,Night,323.09
+270,10.52,Injection Molding,Night,606.0
+190,7.07,Assembly,Evening,347.16
+184,10.57,Assembly,Morning,351.14
+139,10.42,Injection Molding,Morning,393.15
+262,8.76,Injection Molding,Evening,580.52
+425,10.03,CNC,Evening,795.61
+84,6.53,Assembly,Evening,184.49
+467,10.3,CNC,Night,847.15
+27,8.95,Injection Molding,Night,213.15
+58,6.16,Injection Molding,Evening,207.77
+223,8.15,Injection Molding,Night,496.57
+214,11.5,Assembly,Night,415.73
+269,10.6,CNC,Night,534.41
+343,8.53,Injection Molding,Morning,671.99
+242,11.76,Assembly,Night,460.19
+247,2.83,Injection Molding,Morning,414.18
+427,1.62,Injection Molding,Evening,695.34
+145,6.84,Assembly,Night,275.37
+107,2.93,Assembly,Evening,190.17
+143,6.47,Assembly,Morning,255.51
+346,3.79,Injection Molding,Night,591.11
+431,6.12,Injection Molding,Night,772.54
+57,5.86,Injection Molding,Night,191.59
+237,8.59,Injection Molding,Evening,525.71
+216,10.39,CNC,Morning,446.78
+203,7.32,Assembly,Evening,362.32
+444,8.24,Injection Molding,Morning,815.37
+371,9.56,CNC,Night,688.57
+446,10.95,Injection Molding,Morning,867.81
+200,3.41,CNC,Night,343.75
+406,8.93,Assembly,Night,690.35
+341,2.07,Assembly,Night,529.14
+423,5.85,Assembly,Evening,706.19
+66,11.01,Injection Molding,Night,301.77
+122,2.45,Assembly,Evening,208.65
+487,4.0,CNC,Evening,816.26
+266,11.64,Injection Molding,Night,626.62
+431,2.27,CNC,Morning,677.81
+135,10.46,Assembly,Night,288.91
+453,9.85,Injection Molding,Morning,861.45
+27,3.91,CNC,Evening,88.81
+403,8.4,Assembly,Evening,694.99
+210,2.19,CNC,Evening,347.33
+472,11.37,Injection Molding,Night,926.46
+52,7.99,Injection Molding,Night,223.09
+229,2.28,CNC,Morning,367.73
+272,2.28,CNC,Night,438.24
+252,5.08,Assembly,Night,428.97
+234,7.46,Assembly,Morning,409.39
+355,2.09,Injection Molding,Night,580.05
+163,1.36,Injection Molding,Morning,268.07
+140,10.41,CNC,Night,339.5
+481,11.76,Injection Molding,Morning,931.55
+117,11.65,Injection Molding,Morning,387.8
+348,8.03,CNC,Morning,622.95
+144,11.88,Assembly,Morning,292.26
+411,7.1,Assembly,Morning,671.21
+139,4.61,CNC,Night,261.14
+459,11.82,CNC,Night,842.96
+109,2.21,CNC,Morning,182.26
+424,9.67,Assembly,Evening,724.09
+155,1.58,Assembly,Evening,253.72
+401,1.7,Injection Molding,Evening,657.6
+75,5.97,CNC,Night,180.52
+421,11.0,Assembly,Night,719.5
+349,11.6,CNC,Evening,694.76
+238,8.55,Injection Molding,Night,527.67
+57,10.89,Injection Molding,Night,281.52
+84,4.03,Assembly,Night,158.07
+186,5.19,Assembly,Night,318.35
+278,7.66,CNC,Night,512.93
+355,8.16,Assembly,Night,607.26
+240,5.97,CNC,Evening,446.33
+252,5.39,Assembly,Morning,412.73
+180,8.32,Injection Molding,Morning,422.75
+262,1.74,CNC,Morning,412.79
+401,9.13,CNC,Night,718.24
+307,7.18,Assembly,Morning,509.33
+467,8.32,Injection Molding,Night,860.09
+167,7.6,Injection Molding,Morning,388.55
+128,2.7,Injection Molding,Morning,246.16
+199,10.3,Injection Molding,Morning,488.1
+313,3.49,Injection Molding,Night,550.56
+439,7.84,Assembly,Night,728.56
+331,11.22,Assembly,Evening,590.5
+159,8.73,Injection Molding,Evening,409.08
+112,10.57,Assembly,Night,245.24
+92,9.15,CNC,Morning,251.74
+130,5.14,Injection Molding,Evening,293.54
+179,8.94,Assembly,Night,331.06
+46,2.71,Assembly,Morning,90.75
+159,5.87,Injection Molding,Evening,359.64
+232,4.0,Assembly,Morning,373.52
+76,4.12,Assembly,Night,145.48
+361,4.39,CNC,Evening,625.7
+48,1.08,Injection Molding,Morning,95.72
+411,3.81,Injection Molding,Morning,677.2
+402,5.74,CNC,Evening,699.28
+137,6.5,Assembly,Evening,254.19
+461,9.16,Injection Molding,Morning,855.74
+59,10.48,Assembly,Evening,169.51
+383,8.04,Injection Molding,Morning,717.7
+186,2.89,Assembly,Evening,316.51
+490,4.98,Injection Molding,Morning,820.53
+321,5.4,CNC,Evening,574.08
+401,4.73,Injection Molding,Morning,679.86
+344,2.25,Assembly,Morning,538.24
+198,4.86,Assembly,Morning,326.8
+94,3.82,CNC,Night,185.02
+408,8.21,CNC,Night,724.64
+406,7.2,Assembly,Evening,688.67
+471,7.21,Assembly,Night,769.28
+341,4.48,Injection Molding,Morning,591.64
+343,4.33,Injection Molding,Night,597.19
+279,1.82,Injection Molding,Evening,461.91
+208,10.15,CNC,Night,448.3
+457,1.99,Assembly,Night,711.57
+317,7.1,Assembly,Morning,524.4
+434,7.29,CNC,Evening,769.7
+276,2.66,CNC,Evening,457.41
+480,10.21,Assembly,Morning,791.54
+108,1.43,Assembly,Evening,186.75
+288,6.75,CNC,Evening,531.49
+164,5.26,Injection Molding,Night,349.06
+424,7.94,Injection Molding,Morning,776.2
+305,8.46,Injection Molding,Evening,637.75
+356,11.61,Assembly,Morning,612.6
+318,8.3,Injection Molding,Evening,658.94
+377,8.28,CNC,Night,681.5
+63,4.41,Injection Molding,Night,182.02
+436,2.41,Assembly,Night,692.24
+487,6.79,Assembly,Night,792.37
+205,1.2,Injection Molding,Morning,336.32
+194,11.42,Injection Molding,Morning,492.18
+90,2.7,Injection Molding,Morning,183.72
+296,10.19,Assembly,Morning,517.92
+468,9.43,CNC,Night,829.49
+103,2.99,Assembly,Night,183.88
+104,8.93,CNC,Evening,271.52
+388,3.61,Injection Molding,Night,656.48
+403,9.62,CNC,Night,730.17
+434,9.63,CNC,Evening,800.08
+312,11.83,Injection Molding,Evening,712.63
+277,6.8,CNC,Morning,501.92
+90,10.6,CNC,Night,267.13
+210,7.1,CNC,Night,413.74
+455,2.37,CNC,Morning,707.3
+483,6.65,Injection Molding,Morning,851.34
+133,9.98,Injection Molding,Morning,377.78
+222,6.52,CNC,Evening,435.6
+211,3.47,Injection Molding,Morning,384.39
+352,4.69,CNC,Morning,576.89
+489,10.13,Assembly,Morning,808.55
+260,5.93,CNC,Morning,453.46
+130,10.18,Assembly,Night,273.33
+236,2.22,Injection Molding,Morning,390.78
+44,3.62,Assembly,Night,92.48
+76,10.2,Injection Molding,Night,304.13
+343,6.67,CNC,Night,600.73
+239,1.02,Injection Molding,Morning,377.99
+115,8.31,CNC,Night,285.26
+54,11.49,Assembly,Night,169.24
+279,7.1,Injection Molding,Evening,560.85
+218,11.79,Injection Molding,Night,542.26
+423,1.74,CNC,Night,671.0
+73,9.49,Assembly,Evening,177.1
+200,7.01,Assembly,Morning,354.36
+370,6.11,Assembly,Evening,623.79
+435,2.48,Assembly,Evening,689.25
+123,1.48,CNC,Morning,199.31
+178,6.67,Assembly,Evening,322.29
+405,8.12,Injection Molding,Evening,789.6
+44,10.52,Injection Molding,Evening,259.57
+208,5.81,Injection Molding,Night,423.95
+217,4.73,CNC,Evening,400.62
+208,11.17,Assembly,Evening,410.62
+392,5.67,Injection Molding,Night,711.78
+112,7.0,Injection Molding,Morning,287.28
+358,4.25,Injection Molding,Night,629.25
+105,8.59,Injection Molding,Evening,317.28
+465,11.03,Assembly,Evening,802.09
+425,11.43,CNC,Night,792.35
+206,6.64,Assembly,Night,357.15
+35,2.57,Assembly,Night,76.4
+37,2.39,CNC,Night,83.72
+216,11.44,CNC,Night,464.96
+250,11.44,Injection Molding,Evening,608.37
+313,2.51,Injection Molding,Evening,532.3
+162,3.75,CNC,Morning,291.77
+275,6.7,Assembly,Morning,455.59
+153,8.74,CNC,Night,337.64
+489,11.98,CNC,Morning,871.43
+57,5.97,Assembly,Evening,140.34
+434,8.5,Injection Molding,Night,817.64
+53,7.05,Injection Molding,Evening,220.28
+384,8.81,Assembly,Night,645.21
+205,6.6,CNC,Morning,391.37
+141,9.69,CNC,Evening,341.76
+208,6.14,Assembly,Morning,356.77
+64,1.72,Injection Molding,Night,133.0
+289,5.52,Injection Molding,Night,536.7
+182,8.07,Injection Molding,Evening,437.87
+196,2.41,Assembly,Night,318.49
+413,11.63,Injection Molding,Night,851.99
+48,10.15,Assembly,Morning,139.92
+102,4.55,Assembly,Morning,182.39
+285,10.84,CNC,Evening,575.02
+302,4.02,Assembly,Evening,502.22
+67,6.53,CNC,Night,189.5
+98,2.88,Assembly,Night,176.94
+192,10.27,Assembly,Morning,365.09
+34,1.89,Assembly,Night,61.75
+127,9.44,Injection Molding,Night,369.85
+274,10.78,Assembly,Evening,508.19
+174,6.31,Assembly,Evening,314.14
+57,8.57,CNC,Evening,194.52
+257,3.24,Assembly,Morning,405.18
+387,4.51,Injection Molding,Evening,682.24
+209,6.66,CNC,Evening,405.02
+82,3.94,CNC,Morning,163.83
+168,11.4,Assembly,Evening,341.04
+463,10.93,Injection Molding,Night,912.6
+117,9.39,Injection Molding,Night,350.88
+470,4.39,CNC,Morning,764.8
+278,6.03,CNC,Morning,490.69
+44,1.56,Injection Molding,Night,102.08
+354,8.4,Injection Molding,Night,687.97
+75,5.74,Injection Molding,Night,217.99
+226,5.03,Injection Molding,Morning,430.66
+119,4.99,Injection Molding,Morning,266.5
+250,9.41,Injection Molding,Night,558.15
+80,2.42,CNC,Evening,152.97
+193,7.14,Injection Molding,Morning,413.2
+280,5.42,CNC,Morning,477.66
+385,4.66,Injection Molding,Night,673.92
+330,10.82,CNC,Evening,656.74
+183,2.79,Assembly,Night,305.39
+323,4.7,Assembly,Night,527.59
+308,4.3,CNC,Evening,531.44
+76,11.78,Assembly,Evening,209.07
+391,10.59,Assembly,Morning,662.18
+155,11.64,Assembly,Night,315.9
+46,7.42,CNC,Night,163.27
+337,9.52,Injection Molding,Morning,682.01
+144,1.35,Assembly,Morning,220.5
+245,4.45,CNC,Evening,440.78
+230,6.52,Assembly,Evening,412.23
+396,9.0,Assembly,Morning,657.3
+307,4.58,Assembly,Evening,512.67
+180,11.52,Injection Molding,Night,484.38
+201,8.43,Assembly,Night,370.01
+374,3.91,Injection Molding,Morning,638.7
+162,7.14,CNC,Evening,346.17
+380,3.28,Assembly,Evening,613.75
+198,7.17,Assembly,Evening,357.68
+313,8.44,Injection Molding,Evening,651.37
+415,9.85,Injection Molding,Morning,796.4
+385,1.87,Injection Molding,Night,619.49
+265,3.35,Assembly,Evening,444.72
+376,3.99,CNC,Night,627.97
+142,3.67,Assembly,Night,239.07
+139,1.58,Injection Molding,Evening,249.9
+71,8.49,CNC,Morning,215.81
+495,2.74,Assembly,Evening,791.79
+122,9.32,Injection Molding,Evening,361.36
+50,10.99,CNC,Night,212.2
+293,9.13,CNC,Morning,547.75
+448,2.93,CNC,Evening,740.05
+115,11.3,Injection Molding,Morning,368.05
+310,7.63,Injection Molding,Evening,625.7
+348,6.98,Injection Molding,Morning,653.26
+259,4.0,CNC,Evening,448.56
+254,8.13,Assembly,Morning,430.14
+192,9.7,Assembly,Night,367.13
+109,7.72,Assembly,Evening,231.47
+283,4.61,Injection Molding,Night,511.16
+91,6.25,CNC,Morning,207.67
+140,5.91,Injection Molding,Evening,325.87
+390,7.3,Injection Molding,Night,728.48
+140,1.68,CNC,Evening,236.28
+227,8.55,Assembly,Evening,419.41
+347,11.08,Injection Molding,Evening,750.57
+132,11.53,Injection Molding,Morning,404.82
+330,5.11,Assembly,Night,547.99
+407,6.91,Assembly,Morning,663.06
+368,9.3,CNC,Night,676.02
+380,4.98,Assembly,Morning,597.85
+300,10.93,CNC,Night,593.37
+104,4.61,Assembly,Evening,189.66
+125,8.89,Injection Molding,Morning,353.9
+248,9.9,Injection Molding,Morning,550.41
+253,7.2,Assembly,Evening,449.86
+177,8.96,Injection Molding,Evening,448.91
